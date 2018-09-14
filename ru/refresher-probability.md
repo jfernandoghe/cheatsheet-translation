@@ -1,12 +1,12 @@
 **1. Probabilities and Statistics refresher**
 
-&#10230; Rappel de probabilités et de statistiques
+&#10230;
 
 <br>
 
 **2. Introduction to Probability and Combinatorics**
 
-&#10230; Introduction aux probabilités et combinatoires
+&#10230;
 
 <br>
 
